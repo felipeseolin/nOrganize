@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BaseFile</key>
+	<string>Chapters/Document1.playgroundchapter/Pages/template.playgroundpage/main.swift</string>
+	<key>Diffs</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>import PlaygroundSupport
+
+// Sets up the LiveView.
+</string>
+			<key>ModifiedRange</key>
+			<string>{6710, 51}</string>
+			<key>OriginalContent</key>
+			<string>// /*#-localizable-zone(shapesTemplate1)*/Sets up the LiveView./*#-end-localizable-zone*/
+</string>
+			<key>OriginalRange</key>
+			<string>{6710, 90}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>// Veja o arquivo StretchViewController.swift
+PlaygroundSupport.PlaygroundPage.current.liveView = StretchViewController()
+</string>
+			<key>ModifiedRange</key>
+			<string>{6778, 122}</string>
+			<key>OriginalContent</key>
+			<string>// /*#-localizable-zone(shapesTemplate2)*/Creates a circle graphic./*#-end-localizable-zone*/
+let circle = Graphic.circle(radius: 100, color: #colorLiteral(red: 0.4550631046, green: 0.6557807326, blue: 0.9979295135, alpha: 1.0))
+scene.place(circle, at: Point.zero)
+circle.isDraggable = true
+</string>
+			<key>OriginalRange</key>
+			<string>{6817, 291}</string>
+		</dict>
+	</array>
+	<key>FormatVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

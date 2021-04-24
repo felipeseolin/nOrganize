@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BaseContentIdentifier</key>
+	<string>com.apple.playgrounds.Shapes</string>
+	<key>BaseContentVersion</key>
+	<string>4.0.0</string>
+	<key>ContentType</key>
+	<string>PlaygroundBookUserEdit</string>
+	<key>Diffs</key>
+	<dict>
+		<key>Chapters/Document1.playgroundchapter/Pages/A2220766-4979-4156-88AC-1A0694C1A1D2.playgroundpage/UserManifest.plist</key>
+		<string>Added</string>
+		<key>Chapters/Document1.playgroundchapter/Pages/A2220766-4979-4156-88AC-1A0694C1A1D2.playgroundpage/main.swift</key>
+		<string>Modified</string>
+		<key>Chapters/Document1.playgroundchapter/Pages/CDCF79E4-32A3-4E5A-A590-D916E64B9A3E.playgroundpage/UserManifest.plist</key>
+		<string>Added</string>
+		<key>Chapters/Document1.playgroundchapter/Pages/CDCF79E4-32A3-4E5A-A590-D916E64B9A3E.playgroundpage/main.swift</key>
+		<string>Modified</string>
+		<key>Chapters/Document1.playgroundchapter/UserManifest.plist</key>
+		<string>Added</string>
+		<key>UserModules/MyFiles.playgroundmodule/Sources/ColorPicker.swift</key>
+		<string>Removed</string>
+		<key>UserModules/MyFiles.playgroundmodule/Sources/DragScene.swift</key>
+		<string>Added</string>
+		<key>UserModules/MyFiles.playgroundmodule/Sources/DragViewController.swift</key>
+		<string>Added</string>
+		<key>UserModules/MyFiles.playgroundmodule/Sources/Drawing.swift</key>
+		<string>Removed</string>
+		<key>UserModules/MyFiles.playgroundmodule/Sources/SetUpLiveView.swift</key>
+		<string>Modified</string>
+		<key>UserModules/MyFiles.playgroundmodule/Sources/ShapeExtras.swift</key>
+		<string>Removed</string>
+		<key>UserModules/MyFiles.playgroundmodule/Sources/SpritePlayground.swift</key>
+		<string>Removed</string>
+		<key>UserModules/MyFiles.playgroundmodule/Sources/StretchScene.swift</key>
+		<string>Added</string>
+		<key>UserModules/MyFiles.playgroundmodule/Sources/StretchViewController.swift</key>
+		<string>Added</string>
+		<key>UserModules/MyFiles.playgroundmodule/Sources/StringExtension.swift</key>
+		<string>Removed</string>
+		<key>UserModules/MyFiles.playgroundmodule/Sources/ThicknessPicker.swift</key>
+		<string>Removed</string>
+	</dict>
+	<key>FormatVersion</key>
+	<integer>2</integer>
+	<key>UpdatedContentVersion</key>
+	<string>4.0.0</string>
+</dict>
+</plist>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diffs</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{58, 0}</string>
+			<key>OriginalContent</key>
+			<string>/*#-localizable-zone(set</string>
+			<key>OriginalRange</key>
+			<string>{58, 24}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>ma instância</string>
+			<key>ModifiedRange</key>
+			<string>{59, 12}</string>
+			<key>OriginalContent</key>
+			<string>pLiveView1)*/A</string>
+			<key>OriginalRange</key>
+			<string>{83, 14}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{73, 0}</string>
+			<key>OriginalContent</key>
+			<string>lobal instance of Scene./*#-end-</string>
+			<key>OriginalRange</key>
+			<string>{99, 32}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{75, 0}</string>
+			<key>OriginalContent</key>
+			<string>caliza</string>
+			<key>OriginalRange</key>
+			<string>{133, 6}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>a</string>
+			<key>ModifiedRange</key>
+			<string>{76, 1}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{140, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string> da Sc</string>
+			<key>ModifiedRange</key>
+			<string>{78, 6}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{141, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{85, 0}</string>
+			<key>OriginalContent</key>
+			<string>-zo</string>
+			<key>OriginalRange</key>
+			<string>{142, 3}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>.</string>
+			<key>ModifiedRange</key>
+			<string>{87, 1}</string>
+			<key>OriginalContent</key>
+			<string>*/</string>
+			<key>OriginalRange</key>
+			<string>{147, 2}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>Confi</string>
+			<key>ModifiedRange</key>
+			<string>{142, 5}</string>
+			<key>OriginalContent</key>
+			<string>/*#-localizable-zone(setUpLiveView2)*/Sets up the Live View usin</string>
+			<key>OriginalRange</key>
+			<string>{203, 64}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>ura a Visualização em Tempo Real usa</string>
+			<key>ModifiedRange</key>
+			<string>{148, 36}</string>
+			<key>OriginalContent</key>
+			<string> the sce</string>
+			<key>OriginalRange</key>
+			<string>{268, 8}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>do o</string>
+			<key>ModifiedRange</key>
+			<string>{185, 4}</string>
+			<key>OriginalContent</key>
+			<string>e’s</string>
+			<key>OriginalRange</key>
+			<string>{277, 3}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string> </string>
+			<key>ModifiedRange</key>
+			<string>{196, 1}</string>
+			<key>OriginalContent</key>
+			<string>./*#-en</string>
+			<key>OriginalRange</key>
+			<string>{287, 7}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>a </string>
+			<key>ModifiedRange</key>
+			<string>{198, 2}</string>
+			<key>OriginalContent</key>
+			<string>-lo</string>
+			<key>OriginalRange</key>
+			<string>{295, 3}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{201, 0}</string>
+			<key>OriginalContent</key>
+			<string>alizabl</string>
+			<key>OriginalRange</key>
+			<string>{299, 7}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{202, 0}</string>
+			<key>OriginalContent</key>
+			<string>-zo</string>
+			<key>OriginalRange</key>
+			<string>{307, 3}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>a.</string>
+			<key>ModifiedRange</key>
+			<string>{203, 2}</string>
+			<key>OriginalContent</key>
+			<string>e*/</string>
+			<key>OriginalRange</key>
+			<string>{311, 3}</string>
+		</dict>
+	</array>
+	<key>FormatVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
